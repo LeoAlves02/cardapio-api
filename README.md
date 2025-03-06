@@ -20,11 +20,11 @@ cd cardapio-api
 ```
  Agora, dentro do IntelliJ, instale as depedências com o Maven  
 
-<img src="./.github/1.png" width="200" />
+<img src="./.github/1.png" width="400" />
 
  Por fim, abra o arquivo da classe CardapioApplication para executar o projeto.
   
-<img src="./.github/2.png" width="200" />
+<img src="./.github/2.png" width="400" />
 
 # 👩‍💻 Integração com o Front-end
 Para integrar com o frontend, você pode clonar o projeto e rodá-lo localmente ou, caso prefira, desenvolver suas próprias implementações seguindo as diretrizes do projeto.
