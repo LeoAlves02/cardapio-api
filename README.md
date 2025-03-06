@@ -18,10 +18,10 @@ git clone https://github.com/LeoAlves02/cardapio-api
 ## Acesse-o
 cd cardapio-api
 ```
- Agora, dentro do IntelliJ, instale as depedências com o Maven
+ Agora, dentro do IntelliJ, instale as depedências com o Maven  
 ![Instalar dependências do Maven](./.github/1.png)
 
- Por fim, abra o arquivo da classe CardapioApplication para executar o projeto.
+ Por fim, abra o arquivo da classe CardapioApplication para executar o projeto.  
 ![Executar o projeto](./.github/2.png)
 
 # 👩‍💻 Integração com o Front-end
