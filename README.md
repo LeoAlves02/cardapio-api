@@ -1,4 +1,4 @@
-# Cardápio Digital - API - Backend
+# Cardápio Digital - API - Back-end
 
 Esta aplicação foi desenvolvida com Java Spring, utilizando Spring MVC para a criação do servidor, Spring Data JPA para a manipulação e persistência de dados, Lombok para reduzir código repetitivo e o Postgres Driver para a conexão com o banco de dados PostgreSQL.
 
@@ -19,9 +19,11 @@ git clone https://github.com/LeoAlves02/cardapio-api
 cd cardapio-api
 ```
  Agora, dentro do IntelliJ, instale as depedências com o Maven  
+
 ![Instalar dependências do Maven](./.github/1.png)
 
- Por fim, abra o arquivo da classe CardapioApplication para executar o projeto.  
+ Por fim, abra o arquivo da classe CardapioApplication para executar o projeto.
+  
 ![Executar o projeto](./.github/2.png)
 
 # 👩‍💻 Integração com o Front-end
